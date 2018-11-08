@@ -24,7 +24,7 @@ export default {
         desc: '热门景点'
       }, {
         id: '0002',
-        imgUrl: 'https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png',
+        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/27/dac2bcf9added702.png',
         desc: '打卡圣地'
       }, {
         id: '0003',
@@ -32,7 +32,7 @@ export default {
         desc: '必备榜单'
       }, {
         id: '0004',
-        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/48/cb72b99b71974c02.png',
+        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png',
         desc: '生活体闲'
       }, {
         id: '0005',
@@ -40,7 +40,7 @@ export default {
         desc: '热门景点'
       }, {
         id: '0006',
-        imgUrl: 'https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png',
+        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/27/dac2bcf9added702.png',
         desc: '打卡圣地'
       }, {
         id: '0007',
@@ -48,7 +48,7 @@ export default {
         desc: '必备榜单'
       }, {
         id: '0008',
-        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/48/cb72b99b71974c02.png',
+        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png',
         desc: '生活体闲'
       }, {
         id: '0009',
@@ -80,6 +80,7 @@ export default {
      height:0
      padding-bottom:50%
  .icons
+    margin-top:.2rem
     overflow:hidden
     height:0
     padding-bottom:50%
