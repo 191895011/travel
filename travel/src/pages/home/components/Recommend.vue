@@ -21,25 +21,8 @@
 <script type="text/javascript">
 export default {
   name: 'HomeRecommend',
-  data () {
-    return {
-      recommendList: [{
-        id: '0001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/f2/17a02b681cbfb4545250a3f201cdad19.water.jpg_200x200_408ff2cb.jpg',
-        title: '京东第一温泉度假村',
-        desc: '京东第一温泉'
-      }, {
-        id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/f2/17a02b681cbfb4545250a3f201cdad19.water.jpg_200x200_408ff2cb.jpg',
-        title: '京东第一温泉度假村',
-        desc: '京东第一温泉'
-      }, {
-        id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/f2/17a02b681cbfb4545250a3f201cdad19.water.jpg_200x200_408ff2cb.jpg',
-        title: '京东第一温泉度假村',
-        desc: '京东第一温泉'
-      }]
-    }
+  props: {
+    recommendList: Array
   }
 }
 
