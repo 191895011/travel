@@ -13,7 +13,7 @@
 <script type="text/javascript">
 export default {
   name: 'HomeSwiper',
-   props: {
+  props: {
     swiperList: Array
   },
   data () {
